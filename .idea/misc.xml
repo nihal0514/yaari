@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/yaari/app/src/main/res/font/font.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/yaari/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/yaari/app/src/main/res/layout/activity_normal_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/yaari/app/src/main/res/layout/activity_normal_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/yaari/app/src/main/res/menu/menu_bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yaari/app/src/main/res/layout/activity_main.xml" value="0.11775362318840579" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yaari/app/src/main/res/layout/activity_profile.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

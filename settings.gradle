@@ -1,0 +1,2 @@
+rootProject.name = "yaari"
+include ':app'

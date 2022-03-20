@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977025713741",
+    "project_id": "yaari-53c45",
+    "storage_bucket": "yaari-53c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977025713741:android:90319567a6f70e9b79fe04",
+        "android_client_info": {
+          "package_name": "com.example.yaari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977025713741-6quvkp6s6k2h167djv04oqf5psk9hr7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yaari",
+            "certificate_hash": "35513eda09849be1300df33847bada772298988d"
+          }
+        },
+        {
+          "client_id": "977025713741-7gbnuuvv6f79e4t0m8nh9a32h2bhnhk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yaari",
+            "certificate_hash": "f9cde1eafed5f873f84c323517c5e7b02f5b2847"
+          }
+        },
+        {
+          "client_id": "977025713741-ck6alki743fjkc9j3hegmimbk8i6qma7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs5_jrlrpMBtY_RhNqaUstMeYgrG2SbtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977025713741-ck6alki743fjkc9j3hegmimbk8i6qma7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
